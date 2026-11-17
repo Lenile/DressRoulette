@@ -1,0 +1,636 @@
+{
+  "_comment": "Ne jamais réordonner ni renuméroter. Les nouvelles contraintes s'ajoutent à la fin avec un nouvel id.",
+  "constraints": [
+    {
+      "id": 1,
+      "fr": "Avec un accessoire de tête",
+      "en": "With a headpiece"
+    },
+    {
+      "id": 2,
+      "fr": "Sans arme visible",
+      "en": "No visible weapon"
+    },
+    {
+      "id": 3,
+      "fr": "Avec des lunettes",
+      "en": "With glasses"
+    },
+    {
+      "id": 4,
+      "fr": "Avec une cape ou un manteau long",
+      "en": "With a cape or a long coat"
+    },
+    {
+      "id": 5,
+      "fr": "Avec une ombrelle ou un accessoire de mode",
+      "en": "With a parasol or a fashion accessory"
+    },
+    {
+      "id": 6,
+      "fr": "Avec un chapeau",
+      "en": "With a hat"
+    },
+    {
+      "id": 7,
+      "fr": "Avec un masque",
+      "en": "With a mask"
+    },
+    {
+      "id": 8,
+      "fr": "Avec un bandeau ou un ruban",
+      "en": "With a headband or a ribbon"
+    },
+    {
+      "id": 9,
+      "fr": "Avec des boucles d'oreilles bien visibles",
+      "en": "With clearly visible earrings"
+    },
+    {
+      "id": 10,
+      "fr": "Avec un collier ou un ras-de-cou",
+      "en": "With a necklace or a choker"
+    },
+    {
+      "id": 11,
+      "fr": "Avec une ceinture marquée",
+      "en": "With a statement belt"
+    },
+    {
+      "id": 12,
+      "fr": "Avec des gants longs",
+      "en": "With long gloves"
+    },
+    {
+      "id": 13,
+      "fr": "Pas de gants",
+      "en": "No gloves"
+    },
+    {
+      "id": 14,
+      "fr": "Avec un sac ou une sacoche",
+      "en": "With a bag or a satchel"
+    },
+    {
+      "id": 15,
+      "fr": "Avec un voile",
+      "en": "With a veil"
+    },
+    {
+      "id": 16,
+      "fr": "Avec des fleurs quelque part",
+      "en": "With flowers somewhere"
+    },
+    {
+      "id": 17,
+      "fr": "Avec une écharpe ou un foulard",
+      "en": "With a scarf"
+    },
+    {
+      "id": 18,
+      "fr": "Avec des bijoux dorés uniquement",
+      "en": "Gold jewelry only"
+    },
+    {
+      "id": 19,
+      "fr": "Avec des bijoux argentés uniquement",
+      "en": "Silver jewelry only"
+    },
+    {
+      "id": 20,
+      "fr": "Avec un accessoire qui fait du bruit (clochettes, chaînes…)",
+      "en": "With a noisy accessory (bells, chains…)"
+    },
+    {
+      "id": 21,
+      "fr": "Avec une arme décorative bien en vue",
+      "en": "With a decorative weapon on full display"
+    },
+    {
+      "id": 22,
+      "fr": "Sans aucun accessoire",
+      "en": "No accessories at all"
+    },
+    {
+      "id": 23,
+      "fr": "Avec un éventail",
+      "en": "With a fan"
+    },
+    {
+      "id": 24,
+      "fr": "Avec un nœud quelque part",
+      "en": "With a bow somewhere"
+    },
+    {
+      "id": 25,
+      "fr": "Avec un accessoire porté de travers",
+      "en": "With an accessory worn askew"
+    },
+    {
+      "id": 26,
+      "fr": "Une seule couleur de teinture",
+      "en": "A single dye color"
+    },
+    {
+      "id": 27,
+      "fr": "Noir + une seule couleur vive",
+      "en": "Black + one bright color"
+    },
+    {
+      "id": 28,
+      "fr": "Couleurs pastel uniquement",
+      "en": "Pastel colors only"
+    },
+    {
+      "id": 29,
+      "fr": "Contraste maximum",
+      "en": "Maximum contrast"
+    },
+    {
+      "id": 30,
+      "fr": "Aucune pièce de plus de deux couleurs",
+      "en": "No piece with more than two colors"
+    },
+    {
+      "id": 31,
+      "fr": "Au moins trois couleurs différentes",
+      "en": "At least three different colors"
+    },
+    {
+      "id": 32,
+      "fr": "Uniquement des tons chauds",
+      "en": "Warm tones only"
+    },
+    {
+      "id": 33,
+      "fr": "Uniquement des tons froids",
+      "en": "Cool tones only"
+    },
+    {
+      "id": 34,
+      "fr": "Uniquement des tons terre (brun, beige, kaki)",
+      "en": "Earth tones only (brown, beige, khaki)"
+    },
+    {
+      "id": 35,
+      "fr": "Avec une touche de doré",
+      "en": "With a touch of gold"
+    },
+    {
+      "id": 36,
+      "fr": "Avec une touche de rouge",
+      "en": "With a touch of red"
+    },
+    {
+      "id": 37,
+      "fr": "Avec une touche de violet",
+      "en": "With a touch of purple"
+    },
+    {
+      "id": 38,
+      "fr": "Avec une touche de vert",
+      "en": "With a touch of green"
+    },
+    {
+      "id": 39,
+      "fr": "Avec une touche de bleu nuit",
+      "en": "With a touch of midnight blue"
+    },
+    {
+      "id": 40,
+      "fr": "Tout en dégradé, du clair au foncé",
+      "en": "A full gradient, from light to dark"
+    },
+    {
+      "id": 41,
+      "fr": "Couleurs qui ne vont pas ensemble (exprès)",
+      "en": "Colors that clash (on purpose)"
+    },
+    {
+      "id": 42,
+      "fr": "Blanc cassé et crème",
+      "en": "Off-white and cream"
+    },
+    {
+      "id": 43,
+      "fr": "Teintures métallisées obligatoires",
+      "en": "Metallic dyes required"
+    },
+    {
+      "id": 44,
+      "fr": "Aucun noir autorisé",
+      "en": "No black allowed"
+    },
+    {
+      "id": 45,
+      "fr": "Aucun blanc autorisé",
+      "en": "No white allowed"
+    },
+    {
+      "id": 46,
+      "fr": "Les couleurs de ton drapeau préféré",
+      "en": "The colors of your favorite flag"
+    },
+    {
+      "id": 47,
+      "fr": "Les couleurs d'un fruit",
+      "en": "The colors of a fruit"
+    },
+    {
+      "id": 48,
+      "fr": "Les couleurs d'un coucher de soleil",
+      "en": "The colors of a sunset"
+    },
+    {
+      "id": 49,
+      "fr": "Les couleurs d'une saison au choix",
+      "en": "The colors of a season of your choice"
+    },
+    {
+      "id": 50,
+      "fr": "Pieds nus",
+      "en": "Barefoot"
+    },
+    {
+      "id": 51,
+      "fr": "Talons hauts",
+      "en": "High heels"
+    },
+    {
+      "id": 52,
+      "fr": "Bottes hautes",
+      "en": "Tall boots"
+    },
+    {
+      "id": 53,
+      "fr": "Sandales",
+      "en": "Sandals"
+    },
+    {
+      "id": 54,
+      "fr": "Jupe ou robe obligatoire",
+      "en": "Skirt or dress required"
+    },
+    {
+      "id": 55,
+      "fr": "Pantalon obligatoire",
+      "en": "Pants required"
+    },
+    {
+      "id": 56,
+      "fr": "Short ou jupe courte",
+      "en": "Shorts or a short skirt"
+    },
+    {
+      "id": 57,
+      "fr": "Tenue très longue jusqu'au sol",
+      "en": "Floor-length outfit"
+    },
+    {
+      "id": 58,
+      "fr": "Manches très larges",
+      "en": "Very wide sleeves"
+    },
+    {
+      "id": 59,
+      "fr": "Sans manches",
+      "en": "Sleeveless"
+    },
+    {
+      "id": 60,
+      "fr": "Silhouette ample et flottante",
+      "en": "Loose, flowing silhouette"
+    },
+    {
+      "id": 61,
+      "fr": "Silhouette très ajustée",
+      "en": "Very fitted silhouette"
+    },
+    {
+      "id": 62,
+      "fr": "Superposition de couches",
+      "en": "Layered look"
+    },
+    {
+      "id": 63,
+      "fr": "Asymétrique",
+      "en": "Asymmetrical"
+    },
+    {
+      "id": 64,
+      "fr": "Épaules dénudées",
+      "en": "Bare shoulders"
+    },
+    {
+      "id": 65,
+      "fr": "Col montant",
+      "en": "High collar"
+    },
+    {
+      "id": 66,
+      "fr": "Tenue d'un seul tenant (robe, combinaison…)",
+      "en": "One-piece outfit (dress, jumpsuit…)"
+    },
+    {
+      "id": 67,
+      "fr": "Dos de la tenue soigné pour la photo",
+      "en": "A back view worth photographing"
+    },
+    {
+      "id": 68,
+      "fr": "Au moins une pièce de donjon",
+      "en": "At least one dungeon piece"
+    },
+    {
+      "id": 69,
+      "fr": "Une pièce de raid obligatoire",
+      "en": "One raid piece required"
+    },
+    {
+      "id": 70,
+      "fr": "Une pièce que tu n'as jamais portée",
+      "en": "A piece you've never worn"
+    },
+    {
+      "id": 71,
+      "fr": "Au moins une pièce de ton job principal",
+      "en": "At least one piece from your main job"
+    },
+    {
+      "id": 72,
+      "fr": "Tout doit venir du marché",
+      "en": "Everything must come from the market board"
+    },
+    {
+      "id": 73,
+      "fr": "Au moins une pièce achetée chez un marchand PNJ",
+      "en": "At least one piece bought from an NPC vendor"
+    },
+    {
+      "id": 74,
+      "fr": "Une pièce d'artisanat obligatoire",
+      "en": "One crafted piece required"
+    },
+    {
+      "id": 75,
+      "fr": "Une pièce d'un événement saisonnier",
+      "en": "One piece from a seasonal event"
+    },
+    {
+      "id": 76,
+      "fr": "Une pièce d'une autre race ou d'un autre job",
+      "en": "One piece from another race or job"
+    },
+    {
+      "id": 77,
+      "fr": "Une pièce qui ne va pas du tout (et l'assumer)",
+      "en": "One piece that doesn't fit at all (and own it)"
+    },
+    {
+      "id": 78,
+      "fr": "Le moins cher possible",
+      "en": "As cheap as possible"
+    },
+    {
+      "id": 79,
+      "fr": "Au moins une pièce de ta première tenue",
+      "en": "At least one piece from your very first outfit"
+    },
+    {
+      "id": 80,
+      "fr": "Coiffure différente d'habitude",
+      "en": "A different hairstyle than usual"
+    },
+    {
+      "id": 81,
+      "fr": "Maquillage audacieux",
+      "en": "Bold makeup"
+    },
+    {
+      "id": 82,
+      "fr": "Maquillage très naturel",
+      "en": "Very natural makeup"
+    },
+    {
+      "id": 83,
+      "fr": "Cheveux attachés",
+      "en": "Hair tied up"
+    },
+    {
+      "id": 84,
+      "fr": "Cheveux lâchés",
+      "en": "Hair down"
+    },
+    {
+      "id": 85,
+      "fr": "Couleur de cheveux différente pour l'occasion",
+      "en": "A different hair color for the occasion"
+    },
+    {
+      "id": 86,
+      "fr": "Avec des tresses",
+      "en": "With braids"
+    },
+    {
+      "id": 87,
+      "fr": "Rouge à lèvres foncé",
+      "en": "Dark lipstick"
+    },
+    {
+      "id": 88,
+      "fr": "Yeux très maquillés",
+      "en": "Heavy eye makeup"
+    },
+    {
+      "id": 89,
+      "fr": "Peintures ou marques sur le visage",
+      "en": "Face paint or facial markings"
+    },
+    {
+      "id": 90,
+      "fr": "Couleur des yeux assortie à la tenue",
+      "en": "Eye color matching the outfit"
+    },
+    {
+      "id": 91,
+      "fr": "Avec un mignon assorti",
+      "en": "With a matching minion"
+    },
+    {
+      "id": 92,
+      "fr": "Avec une monture assortie",
+      "en": "With a matching mount"
+    },
+    {
+      "id": 93,
+      "fr": "Avec une émote signature pour la photo",
+      "en": "With a signature emote for the screenshot"
+    },
+    {
+      "id": 94,
+      "fr": "Photo obligatoire dans le lieu qui colle au thème",
+      "en": "Screenshot required in a location that fits the theme"
+    },
+    {
+      "id": 95,
+      "fr": "Photo de nuit",
+      "en": "Night-time screenshot"
+    },
+    {
+      "id": 96,
+      "fr": "Photo sous la pluie ou la neige",
+      "en": "Screenshot in the rain or snow"
+    },
+    {
+      "id": 97,
+      "fr": "Photo en contre-plongée, comme une héroïne",
+      "en": "Low-angle shot, like a hero"
+    },
+    {
+      "id": 98,
+      "fr": "Photo avec un autre perso",
+      "en": "Screenshot with another character"
+    },
+    {
+      "id": 99,
+      "fr": "Photo en noir et blanc",
+      "en": "Black-and-white screenshot"
+    },
+    {
+      "id": 100,
+      "fr": "Photo avec un fond très coloré",
+      "en": "Screenshot with a very colorful background"
+    },
+    {
+      "id": 101,
+      "fr": "Photo assise",
+      "en": "Sitting pose"
+    },
+    {
+      "id": 102,
+      "fr": "Photo en plein mouvement",
+      "en": "Action shot"
+    },
+    {
+      "id": 103,
+      "fr": "Photo cadrée sur le visage",
+      "en": "Close-up on the face"
+    },
+    {
+      "id": 104,
+      "fr": "Photo de dos",
+      "en": "Shot from behind"
+    },
+    {
+      "id": 105,
+      "fr": "Photo avec un accessoire tenu en main",
+      "en": "Holding a prop in the screenshot"
+    },
+    {
+      "id": 106,
+      "fr": "Glamour bouclé en moins de 10 minutes",
+      "en": "Glamour done in under 10 minutes"
+    },
+    {
+      "id": 107,
+      "fr": "Version saison froide",
+      "en": "Cold-season version"
+    },
+    {
+      "id": 108,
+      "fr": "Version saison chaude",
+      "en": "Warm-season version"
+    },
+    {
+      "id": 109,
+      "fr": "Version cérémonie officielle",
+      "en": "Formal ceremony version"
+    },
+    {
+      "id": 110,
+      "fr": "Version tenue de combat",
+      "en": "Battle-ready version"
+    },
+    {
+      "id": 111,
+      "fr": "Version décontractée du thème",
+      "en": "Casual version of the theme"
+    },
+    {
+      "id": 112,
+      "fr": "Version de luxe du thème",
+      "en": "Luxury version of the theme"
+    },
+    {
+      "id": 113,
+      "fr": "Version pauvre et rapiécée du thème",
+      "en": "Poor, patched-up version of the theme"
+    },
+    {
+      "id": 114,
+      "fr": "Version mignonne du thème",
+      "en": "Cute version of the theme"
+    },
+    {
+      "id": 115,
+      "fr": "Version inquiétante du thème",
+      "en": "Creepy version of the theme"
+    },
+    {
+      "id": 116,
+      "fr": "Version dans 100 ans",
+      "en": "100 years in the future"
+    },
+    {
+      "id": 117,
+      "fr": "Version d'il y a 100 ans",
+      "en": "100 years in the past"
+    },
+    {
+      "id": 118,
+      "fr": "Comme si ton perso allait à un rendez-vous",
+      "en": "As if your character were going on a date"
+    },
+    {
+      "id": 119,
+      "fr": "Comme si ton perso était en mission secrète",
+      "en": "As if your character were on a secret mission"
+    },
+    {
+      "id": 120,
+      "fr": "Comme si ton perso venait de se réveiller",
+      "en": "As if your character had just woken up"
+    },
+    {
+      "id": 121,
+      "fr": "Comme si ton perso rentrait d'un long voyage",
+      "en": "As if your character were back from a long journey"
+    },
+    {
+      "id": 122,
+      "fr": "Inspirée d'un plat de Kugane",
+      "en": "Inspired by a Kugane dish"
+    },
+    {
+      "id": 123,
+      "fr": "Inspirée d'une chanson que tu aimes",
+      "en": "Inspired by a song you love"
+    },
+    {
+      "id": 124,
+      "fr": "Inspirée d'un animal",
+      "en": "Inspired by an animal"
+    },
+    {
+      "id": 125,
+      "fr": "Inspirée d'une fleur",
+      "en": "Inspired by a flower"
+    },
+    {
+      "id": 126,
+      "fr": "Pas de contrainte bonus aujourd'hui, profite",
+      "en": "No bonus constraint today, enjoy",
+      "isNone": true
+    }
+  ]
+}
