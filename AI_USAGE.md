@@ -22,13 +22,13 @@ IA :
 - code C# du plugin ;
 - fichiers de données JSON, construits à partir des listes françaises de l'auteur ;
 - traductions anglaises des thèmes, des contraintes et de l'interface ;
-- README, workflow GitHub, tests de la logique.
+- README, workflow GitHub, tests de la logique ;
+- icône du plugin.
 
 ## Pour la soumission
 
 - La description de la PR sur DalamudPluginsD17 doit être **écrite par l'auteur lui-même**, et indiquer le niveau d'usage de l'IA.
-- Les traductions faites avec l'IA sont signalées dans la description du plugin (visible dans l'installateur).
-- Aucune image ni icône générée par IA pour l'instant. Si c'est le cas un jour, le signaler dans la description du plugin.
+- Les traductions et l'icône faites avec l'IA sont signalées dans la description du plugin (visible dans l'installateur).
 
 ## Journal des modifications
 
@@ -36,13 +36,13 @@ IA :
 
 - Demandé par Lénile : écrire le plugin complet à partir de son cahier des charges.
 - Fait par l'IA : tout le code, les données JSON, les traductions anglaises, le README, les tests.
-- Testé par Lénile en jeu : *à compléter*.
+- Testé par Lénile en jeu : le 17/11/2026, tout fonctionne (version 1.0.0.0, installée depuis le dépôt de test).
 
 ### 2026-11-17 — Vérification des règles Dalamud
 
 - Demandé par Lénile : relire le code pour respecter les conditions de Dalamud ; lien Discord fourni par Lénile.
 - Fait par l'IA : lien d'invitation Discord, réparation des configurations abîmées, retrait d'un service inutilisé, emplacement de l'icône corrigé, marche à suivre de soumission dans le README.
-- Testé par Lénile en jeu : *à compléter*.
+- Testé par Lénile en jeu : le 17/11/2026, tout fonctionne (version 1.0.0.0, installée depuis le dépôt de test).
 
 ### 2026-11-17 — Contrainte 73 et nouvelles fonctionnalités
 
@@ -53,7 +53,7 @@ IA :
     - calendrier des 7 ou 30 derniers jours (partagé, sauvé par un joker, raté) ;
     - bouton « Ne plus tirer ce thème » et liste des thèmes exclus dans les réglages ;
     - mention des traductions IA dans la description du plugin.
-- Testé par Lénile en jeu : *à compléter*.
+- Testé par Lénile en jeu : le 17/11/2026, tout fonctionne (version 1.0.0.0, installée depuis le dépôt de test).
 
 ### 2026-11-17 — README public en anglais
 
@@ -66,4 +66,21 @@ IA :
 - Demandé par Lénile : un dépôt public non officiel pour installer le plugin avant la soumission.
 - Fait par l'IA : fichier `repo.json` (dépôt personnalisé Dalamud) et section « Status » du README avec l'adresse du dépôt.
 - Fait par Lénile : compilation du plugin et publication du zip dans une Release GitHub.
-- Testé par Lénile en jeu : *à compléter*.
+- Testé par Lénile en jeu : le 17/11/2026, tout fonctionne (version 1.0.0.0, installée depuis le dépôt de test).
+
+### 2026-11-17 — Compilation et Release automatiques
+
+- Demandé par Lénile : faire compiler le plugin par GitHub.
+- Fait par l'IA : workflow `.github/workflows/main.yml` (compile le plugin et publie la Release avec `latest.zip`, lancé à la main).
+- Testé par Lénile : le 17/11/2026, la compilation sur GitHub et la Release v1.0.0.0 fonctionnent.
+
+### 2026-11-17 — Préparation de la soumission
+
+- Demandé par Lénile : tout préparer pour la soumission au dépôt officiel.
+- Fait par l'IA :
+    - icône du plugin (`images/icon.png`, 512x512), dessinée par un script ;
+    - mention de l'icône et des traductions faites avec l'IA dans la description du plugin ;
+    - `IconUrl` dans `repo.json` ;
+    - dossier de soumission `testing/live/DressRoulette/` (`manifest.toml` et icône), changelog.
+- Non fait par l'IA, volontairement : la description de la PR, que la règle Dalamud demande d'écrire soi-même.
+- Testé par Lénile en jeu : sans objet (aucun changement de code).

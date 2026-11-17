@@ -5,7 +5,7 @@
     "InternalName": "DressRoulette",
     "AssemblyVersion": "1.0.0.0",
     "Punchline": "A daily glamour theme, the same for everyone. Dress up, share with #DressRoulette.",
-    "Description": "DressRoulette gives you one glamour theme per day, the same for every player, changing at the daily reset.\nBuild your outfit around it, then share it with #DressRoulette.\n\n- Daily theme and an optional bonus constraint\n- Free wheel to spin as often as you like, with your own themes\n- Sharing streak, best streak, streak-saving jokers and a calendar of your last days\n- Optional reminder of today's theme in your chat (only you can see it)\n- French and English (English translations written with AI assistance)\n\nDressRoulette never changes your outfit and sends nothing over the internet. The share button only copies a text to your clipboard and opens a Discord channel in your browser.",
+    "Description": "DressRoulette gives you one glamour theme per day, the same for every player, changing at the daily reset.\nBuild your outfit around it, then share it with #DressRoulette.\n\n- Daily theme and an optional bonus constraint\n- Free wheel to spin as often as you like, with your own themes\n- Sharing streak, best streak, streak-saving jokers and a calendar of your last days\n- Optional reminder of today's theme in your chat (only you can see it)\n- French and English\n\nDressRoulette never changes your outfit and sends nothing over the internet. The share button only copies a text to your clipboard and opens a Discord channel in your browser.\n\nAI disclosure: the English translations and the plugin icon were made with AI assistance.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Lenile/DressRoulette",
     "Tags": [
@@ -22,6 +22,7 @@
     "DownloadLinkInstall": "https://github.com/Lenile/DressRoulette/releases/download/v1.0.0.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/Lenile/DressRoulette/releases/download/v1.0.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Lenile/DressRoulette/releases/download/v1.0.0.0/latest.zip",
-    "LastUpdate": "1794912420"
+    "LastUpdate": "1794912420",
+    "IconUrl": "https://raw.githubusercontent.com/Lenile/DressRoulette/main/images/icon.png"
   }
 ]
