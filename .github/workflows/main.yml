@@ -1,0 +1,43 @@
+name: Release DressRoulette
+
+# Lancement à la main : onglet Actions → Release DressRoulette → Run workflow.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: windows-2022
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Install .NET
+        uses: actions/setup-dotnet@v5
+        with:
+          dotnet-version: 10.0.x
+
+      - name: Download Dalamud
+        run: |
+          Invoke-WebRequest -Uri https://goatcorp.github.io/dalamud-distrib/latest.zip -OutFile dalamud.zip
+          Expand-Archive -Force dalamud.zip "$env:AppData\XIVLauncher\addon\Hooks\dev"
+
+      - name: Build
+        run: dotnet build --configuration Release
+
+      - name: Read version
+        id: version
+        shell: pwsh
+        run: |
+          $version = ([xml](Get-Content DressRoulette/DressRoulette.csproj)).Project.PropertyGroup.Version
+          "version=$version" >> $env:GITHUB_OUTPUT
+
+      - name: Publish release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ steps.version.outputs.version }}
+          name: ${{ steps.version.outputs.version }}
+          files: DressRoulette/bin/x64/Release/DressRoulette/latest.zip
