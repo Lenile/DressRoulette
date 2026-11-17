@@ -1,0 +1,1586 @@
+{
+  "_comment": "Ne jamais réordonner ni renuméroter. Les nouveaux thèmes s'ajoutent à la fin avec un nouvel id.",
+  "categories": [
+    {
+      "id": "places",
+      "fr": "Lieux d'Éorzéa et d'ailleurs",
+      "en": "Places of Eorzea and beyond"
+    },
+    {
+      "id": "eras",
+      "fr": "Époques et cultures",
+      "en": "Eras and cultures"
+    },
+    {
+      "id": "jobs",
+      "fr": "Jobs et métiers",
+      "en": "Jobs and crafts"
+    },
+    {
+      "id": "creatures",
+      "fr": "Créatures",
+      "en": "Creatures"
+    },
+    {
+      "id": "seasonal",
+      "fr": "Événements saisonniers",
+      "en": "Seasonal events"
+    },
+    {
+      "id": "pastimes",
+      "fr": "Loisirs d'Éorzéa",
+      "en": "Eorzean pastimes"
+    },
+    {
+      "id": "moods",
+      "fr": "Ambiances et saisons",
+      "en": "Moods and seasons"
+    },
+    {
+      "id": "roles",
+      "fr": "Rôles et métiers de ville",
+      "en": "Town roles and trades"
+    },
+    {
+      "id": "styles",
+      "fr": "Styles du monde réel",
+      "en": "Real-world styles"
+    },
+    {
+      "id": "elements",
+      "fr": "Éléments et nature",
+      "en": "Elements and nature"
+    },
+    {
+      "id": "freeform",
+      "fr": "Thèmes libres et délires",
+      "en": "Free themes and fun"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "category": "places",
+      "fr": "Limsa Lominsa",
+      "en": "Limsa Lominsa"
+    },
+    {
+      "id": 2,
+      "category": "places",
+      "fr": "Gridania",
+      "en": "Gridania"
+    },
+    {
+      "id": 3,
+      "category": "places",
+      "fr": "Ul'dah",
+      "en": "Ul'dah"
+    },
+    {
+      "id": 4,
+      "category": "places",
+      "fr": "Ishgard",
+      "en": "Ishgard"
+    },
+    {
+      "id": 5,
+      "category": "places",
+      "fr": "Kugane",
+      "en": "Kugane"
+    },
+    {
+      "id": 6,
+      "category": "places",
+      "fr": "Kugane la nuit",
+      "en": "Kugane by night"
+    },
+    {
+      "id": 7,
+      "category": "places",
+      "fr": "Doma",
+      "en": "Doma"
+    },
+    {
+      "id": 8,
+      "category": "places",
+      "fr": "Ala Mhigo",
+      "en": "Ala Mhigo"
+    },
+    {
+      "id": 9,
+      "category": "places",
+      "fr": "Sharlayan",
+      "en": "Sharlayan"
+    },
+    {
+      "id": 10,
+      "category": "places",
+      "fr": "Radz-at-Han",
+      "en": "Radz-at-Han"
+    },
+    {
+      "id": 11,
+      "category": "places",
+      "fr": "Tuliyollal",
+      "en": "Tuliyollal"
+    },
+    {
+      "id": 12,
+      "category": "places",
+      "fr": "Solution Neuf",
+      "en": "Solution Nine"
+    },
+    {
+      "id": 13,
+      "category": "places",
+      "fr": "Mor Dhona",
+      "en": "Mor Dhona"
+    },
+    {
+      "id": 14,
+      "category": "places",
+      "fr": "Garlemald",
+      "en": "Garlemald"
+    },
+    {
+      "id": 15,
+      "category": "places",
+      "fr": "Thavnair",
+      "en": "Thavnair"
+    },
+    {
+      "id": 16,
+      "category": "places",
+      "fr": "La mer de Rubis",
+      "en": "The Ruby Sea"
+    },
+    {
+      "id": 17,
+      "category": "places",
+      "fr": "Yanxia",
+      "en": "Yanxia"
+    },
+    {
+      "id": 18,
+      "category": "places",
+      "fr": "Les steppes d'Azim",
+      "en": "The Azim Steppe"
+    },
+    {
+      "id": 19,
+      "category": "places",
+      "fr": "Coerthas enneigé",
+      "en": "Snowy Coerthas"
+    },
+    {
+      "id": 20,
+      "category": "places",
+      "fr": "Les dunes de Thanalan",
+      "en": "The dunes of Thanalan"
+    },
+    {
+      "id": 21,
+      "category": "places",
+      "fr": "La forêt de Sombrelinthe",
+      "en": "The Black Shroud"
+    },
+    {
+      "id": 22,
+      "category": "places",
+      "fr": "La Noscea",
+      "en": "La Noscea"
+    },
+    {
+      "id": 23,
+      "category": "places",
+      "fr": "Costa del Sol",
+      "en": "Costa del Sol"
+    },
+    {
+      "id": 24,
+      "category": "places",
+      "fr": "Le Gold Saucer",
+      "en": "The Gold Saucer"
+    },
+    {
+      "id": 25,
+      "category": "places",
+      "fr": "Le Firmament",
+      "en": "The Firmament"
+    },
+    {
+      "id": 26,
+      "category": "places",
+      "fr": "Urqopacha",
+      "en": "Urqopacha"
+    },
+    {
+      "id": 27,
+      "category": "places",
+      "fr": "Kozama'uka",
+      "en": "Kozama'uka"
+    },
+    {
+      "id": 28,
+      "category": "places",
+      "fr": "Yak T'el",
+      "en": "Yak T'el"
+    },
+    {
+      "id": 29,
+      "category": "places",
+      "fr": "Shaaloani",
+      "en": "Shaaloani"
+    },
+    {
+      "id": 30,
+      "category": "places",
+      "fr": "La tour de Cristal",
+      "en": "The Crystal Tower"
+    },
+    {
+      "id": 31,
+      "category": "eras",
+      "fr": "La Septième Calamité",
+      "en": "The Seventh Umbral Era"
+    },
+    {
+      "id": 32,
+      "category": "eras",
+      "fr": "L'Empire allagois",
+      "en": "The Allagan Empire"
+    },
+    {
+      "id": 33,
+      "category": "eras",
+      "fr": "L'ancienne Mhach",
+      "en": "Ancient Mhach"
+    },
+    {
+      "id": 34,
+      "category": "eras",
+      "fr": "La guerre du Chant des dragons",
+      "en": "The Dragonsong War"
+    },
+    {
+      "id": 35,
+      "category": "eras",
+      "fr": "L'Empire de Garlemald",
+      "en": "The Garlean Empire"
+    },
+    {
+      "id": 36,
+      "category": "eras",
+      "fr": "Les Douze (divinités)",
+      "en": "The Twelve (deities)"
+    },
+    {
+      "id": 37,
+      "category": "jobs",
+      "fr": "Paladin",
+      "en": "Paladin"
+    },
+    {
+      "id": 38,
+      "category": "jobs",
+      "fr": "Guerrier",
+      "en": "Warrior"
+    },
+    {
+      "id": 39,
+      "category": "jobs",
+      "fr": "Chevalier noir",
+      "en": "Dark Knight"
+    },
+    {
+      "id": 40,
+      "category": "jobs",
+      "fr": "Pistosabreur",
+      "en": "Gunbreaker"
+    },
+    {
+      "id": 41,
+      "category": "jobs",
+      "fr": "Moine",
+      "en": "Monk"
+    },
+    {
+      "id": 42,
+      "category": "jobs",
+      "fr": "Chevalier dragon",
+      "en": "Dragoon"
+    },
+    {
+      "id": 43,
+      "category": "jobs",
+      "fr": "Ninja",
+      "en": "Ninja"
+    },
+    {
+      "id": 44,
+      "category": "jobs",
+      "fr": "Samouraï",
+      "en": "Samurai"
+    },
+    {
+      "id": 45,
+      "category": "jobs",
+      "fr": "Faucheur",
+      "en": "Reaper"
+    },
+    {
+      "id": 46,
+      "category": "jobs",
+      "fr": "Rôdeur vipère",
+      "en": "Viper"
+    },
+    {
+      "id": 47,
+      "category": "jobs",
+      "fr": "Barde",
+      "en": "Bard"
+    },
+    {
+      "id": 48,
+      "category": "jobs",
+      "fr": "Machiniste",
+      "en": "Machinist"
+    },
+    {
+      "id": 49,
+      "category": "jobs",
+      "fr": "Danseur",
+      "en": "Dancer"
+    },
+    {
+      "id": 50,
+      "category": "jobs",
+      "fr": "Mage noir",
+      "en": "Black Mage"
+    },
+    {
+      "id": 51,
+      "category": "jobs",
+      "fr": "Invocateur",
+      "en": "Summoner"
+    },
+    {
+      "id": 52,
+      "category": "jobs",
+      "fr": "Mage rouge",
+      "en": "Red Mage"
+    },
+    {
+      "id": 53,
+      "category": "jobs",
+      "fr": "Mage bleu",
+      "en": "Blue Mage"
+    },
+    {
+      "id": 54,
+      "category": "jobs",
+      "fr": "Pictomancien",
+      "en": "Pictomancer"
+    },
+    {
+      "id": 55,
+      "category": "jobs",
+      "fr": "Mage blanc",
+      "en": "White Mage"
+    },
+    {
+      "id": 56,
+      "category": "jobs",
+      "fr": "Érudit",
+      "en": "Scholar"
+    },
+    {
+      "id": 57,
+      "category": "jobs",
+      "fr": "Astromancien",
+      "en": "Astrologian"
+    },
+    {
+      "id": 58,
+      "category": "jobs",
+      "fr": "Sage",
+      "en": "Sage"
+    },
+    {
+      "id": 59,
+      "category": "jobs",
+      "fr": "Couturière",
+      "en": "Weaver"
+    },
+    {
+      "id": 60,
+      "category": "jobs",
+      "fr": "Cuisinière",
+      "en": "Culinarian"
+    },
+    {
+      "id": 61,
+      "category": "jobs",
+      "fr": "Alchimiste",
+      "en": "Alchemist"
+    },
+    {
+      "id": 62,
+      "category": "jobs",
+      "fr": "Forgeronne",
+      "en": "Blacksmith"
+    },
+    {
+      "id": 63,
+      "category": "jobs",
+      "fr": "Pêcheuse",
+      "en": "Fisher"
+    },
+    {
+      "id": 64,
+      "category": "jobs",
+      "fr": "Botaniste",
+      "en": "Botanist"
+    },
+    {
+      "id": 65,
+      "category": "jobs",
+      "fr": "Mineuse",
+      "en": "Miner"
+    },
+    {
+      "id": 66,
+      "category": "creatures",
+      "fr": "Mog",
+      "en": "Moogle"
+    },
+    {
+      "id": 67,
+      "category": "creatures",
+      "fr": "Chocobo",
+      "en": "Chocobo"
+    },
+    {
+      "id": 68,
+      "category": "creatures",
+      "fr": "Tonberry",
+      "en": "Tonberry"
+    },
+    {
+      "id": 69,
+      "category": "creatures",
+      "fr": "Pampa",
+      "en": "Cactuar"
+    },
+    {
+      "id": 70,
+      "category": "creatures",
+      "fr": "Carbuncle",
+      "en": "Carbuncle"
+    },
+    {
+      "id": 71,
+      "category": "creatures",
+      "fr": "Morbol",
+      "en": "Morbol"
+    },
+    {
+      "id": 72,
+      "category": "creatures",
+      "fr": "Bombo",
+      "en": "Bomb"
+    },
+    {
+      "id": 73,
+      "category": "creatures",
+      "fr": "Namazu",
+      "en": "Namazu"
+    },
+    {
+      "id": 74,
+      "category": "creatures",
+      "fr": "Dragon",
+      "en": "Dragon"
+    },
+    {
+      "id": 75,
+      "category": "creatures",
+      "fr": "Au Ra Raen",
+      "en": "Raen Au Ra"
+    },
+    {
+      "id": 76,
+      "category": "seasonal",
+      "fr": "Starlight (Noël éorzéen)",
+      "en": "Starlight Celebration (Eorzean Christmas)"
+    },
+    {
+      "id": 77,
+      "category": "seasonal",
+      "fr": "Valentione (Saint-Valentin)",
+      "en": "Valentione's Day"
+    },
+    {
+      "id": 78,
+      "category": "seasonal",
+      "fr": "All Saints' Wake (Halloween)",
+      "en": "All Saints' Wake (Halloween)"
+    },
+    {
+      "id": 79,
+      "category": "seasonal",
+      "fr": "Moonfire Faire (plage et été)",
+      "en": "Moonfire Faire (beach and summer)"
+    },
+    {
+      "id": 80,
+      "category": "seasonal",
+      "fr": "Hatching-tide (Pâques)",
+      "en": "Hatching-tide (Easter)"
+    },
+    {
+      "id": 81,
+      "category": "seasonal",
+      "fr": "Heavensturn (Nouvel An)",
+      "en": "Heavensturn (New Year)"
+    },
+    {
+      "id": 82,
+      "category": "seasonal",
+      "fr": "Little Ladies' Day",
+      "en": "Little Ladies' Day"
+    },
+    {
+      "id": 83,
+      "category": "seasonal",
+      "fr": "Make It Rain (Gold Saucer)",
+      "en": "Make It Rain (Gold Saucer)"
+    },
+    {
+      "id": 84,
+      "category": "seasonal",
+      "fr": "The Rising (anniversaire)",
+      "en": "The Rising (anniversary)"
+    },
+    {
+      "id": 85,
+      "category": "seasonal",
+      "fr": "Mariage éorzéen (Lien éternel)",
+      "en": "Eorzean wedding (Ceremony of Eternal Bonding)"
+    },
+    {
+      "id": 86,
+      "category": "pastimes",
+      "fr": "Partie de Triple Triad",
+      "en": "A game of Triple Triad"
+    },
+    {
+      "id": 87,
+      "category": "pastimes",
+      "fr": "Courses de chocobos",
+      "en": "Chocobo racing"
+    },
+    {
+      "id": 88,
+      "category": "pastimes",
+      "fr": "Mahjong domien",
+      "en": "Doman mahjong"
+    },
+    {
+      "id": 89,
+      "category": "pastimes",
+      "fr": "Partie de pêche en mer",
+      "en": "Ocean fishing trip"
+    },
+    {
+      "id": 90,
+      "category": "pastimes",
+      "fr": "Chasse au trésor",
+      "en": "Treasure hunt"
+    },
+    {
+      "id": 91,
+      "category": "pastimes",
+      "fr": "Soirée chez soi (housing)",
+      "en": "A night at home (housing)"
+    },
+    {
+      "id": 92,
+      "category": "pastimes",
+      "fr": "Journée au marché",
+      "en": "A day at the market"
+    },
+    {
+      "id": 93,
+      "category": "moods",
+      "fr": "Aube dorée",
+      "en": "Golden dawn"
+    },
+    {
+      "id": 94,
+      "category": "moods",
+      "fr": "Crépuscule",
+      "en": "Twilight"
+    },
+    {
+      "id": 95,
+      "category": "moods",
+      "fr": "Nuit étoilée",
+      "en": "Starry night"
+    },
+    {
+      "id": 96,
+      "category": "moods",
+      "fr": "Clair de lune",
+      "en": "Moonlight"
+    },
+    {
+      "id": 97,
+      "category": "moods",
+      "fr": "Soir d'orage",
+      "en": "Stormy evening"
+    },
+    {
+      "id": 98,
+      "category": "moods",
+      "fr": "Brume du matin",
+      "en": "Morning mist"
+    },
+    {
+      "id": 99,
+      "category": "moods",
+      "fr": "Automne roux",
+      "en": "Russet autumn"
+    },
+    {
+      "id": 100,
+      "category": "moods",
+      "fr": "Printemps en fleurs",
+      "en": "Spring in bloom"
+    },
+    {
+      "id": 101,
+      "category": "moods",
+      "fr": "Plein été",
+      "en": "High summer"
+    },
+    {
+      "id": 102,
+      "category": "moods",
+      "fr": "Neige fraîche",
+      "en": "Fresh snow"
+    },
+    {
+      "id": 103,
+      "category": "moods",
+      "fr": "Coin du feu",
+      "en": "By the fireside"
+    },
+    {
+      "id": 104,
+      "category": "moods",
+      "fr": "Bord de mer",
+      "en": "Seaside"
+    },
+    {
+      "id": 105,
+      "category": "moods",
+      "fr": "Forêt profonde",
+      "en": "Deep forest"
+    },
+    {
+      "id": 106,
+      "category": "moods",
+      "fr": "Désert brûlant",
+      "en": "Scorching desert"
+    },
+    {
+      "id": 107,
+      "category": "moods",
+      "fr": "Aurore boréale",
+      "en": "Northern lights"
+    },
+    {
+      "id": 108,
+      "category": "moods",
+      "fr": "Feuilles mortes",
+      "en": "Fallen leaves"
+    },
+    {
+      "id": 109,
+      "category": "moods",
+      "fr": "Jour de marché animé",
+      "en": "Bustling market day"
+    },
+    {
+      "id": 110,
+      "category": "moods",
+      "fr": "Fin de bal",
+      "en": "End of the ball"
+    },
+    {
+      "id": 111,
+      "category": "moods",
+      "fr": "Matin paresseux",
+      "en": "Lazy morning"
+    },
+    {
+      "id": 112,
+      "category": "moods",
+      "fr": "Feu de camp",
+      "en": "Campfire"
+    },
+    {
+      "id": 113,
+      "category": "roles",
+      "fr": "Aubergiste",
+      "en": "Innkeeper"
+    },
+    {
+      "id": 114,
+      "category": "roles",
+      "fr": "Libraire",
+      "en": "Bookseller"
+    },
+    {
+      "id": 115,
+      "category": "roles",
+      "fr": "Apothicaire",
+      "en": "Apothecary"
+    },
+    {
+      "id": 116,
+      "category": "roles",
+      "fr": "Fleuriste",
+      "en": "Florist"
+    },
+    {
+      "id": 117,
+      "category": "roles",
+      "fr": "Diplomate",
+      "en": "Diplomat"
+    },
+    {
+      "id": 118,
+      "category": "roles",
+      "fr": "Professeure",
+      "en": "Teacher"
+    },
+    {
+      "id": 119,
+      "category": "roles",
+      "fr": "Archéologue",
+      "en": "Archaeologist"
+    },
+    {
+      "id": 120,
+      "category": "roles",
+      "fr": "Capitaine de navire",
+      "en": "Ship captain"
+    },
+    {
+      "id": 121,
+      "category": "roles",
+      "fr": "Messagère",
+      "en": "Messenger"
+    },
+    {
+      "id": 122,
+      "category": "roles",
+      "fr": "Musicienne de rue",
+      "en": "Street musician"
+    },
+    {
+      "id": 123,
+      "category": "roles",
+      "fr": "Peintre",
+      "en": "Painter"
+    },
+    {
+      "id": 124,
+      "category": "roles",
+      "fr": "Styliste de luxe",
+      "en": "Luxury fashion designer"
+    },
+    {
+      "id": 125,
+      "category": "roles",
+      "fr": "Herboriste",
+      "en": "Herbalist"
+    },
+    {
+      "id": 126,
+      "category": "roles",
+      "fr": "Astrologue",
+      "en": "Astrologer"
+    },
+    {
+      "id": 127,
+      "category": "roles",
+      "fr": "Chasseresse",
+      "en": "Huntress"
+    },
+    {
+      "id": 128,
+      "category": "roles",
+      "fr": "Gardienne de phare",
+      "en": "Lighthouse keeper"
+    },
+    {
+      "id": 129,
+      "category": "roles",
+      "fr": "Noble au bal masqué",
+      "en": "Noble at a masquerade ball"
+    },
+    {
+      "id": 130,
+      "category": "roles",
+      "fr": "Bretteuse",
+      "en": "Duelist"
+    },
+    {
+      "id": 131,
+      "category": "roles",
+      "fr": "Mercenaire",
+      "en": "Mercenary"
+    },
+    {
+      "id": 132,
+      "category": "roles",
+      "fr": "Ambassadrice de Kugane",
+      "en": "Kugane ambassador"
+    },
+    {
+      "id": 133,
+      "category": "roles",
+      "fr": "Tenancière de casino",
+      "en": "Casino owner"
+    },
+    {
+      "id": 134,
+      "category": "roles",
+      "fr": "Cartographe",
+      "en": "Cartographer"
+    },
+    {
+      "id": 135,
+      "category": "roles",
+      "fr": "Journaliste",
+      "en": "Journalist"
+    },
+    {
+      "id": 136,
+      "category": "roles",
+      "fr": "Médecin de campagne",
+      "en": "Country doctor"
+    },
+    {
+      "id": 137,
+      "category": "roles",
+      "fr": "Fermière",
+      "en": "Farmer"
+    },
+    {
+      "id": 138,
+      "category": "roles",
+      "fr": "Éleveuse de chocobos",
+      "en": "Chocobo breeder"
+    },
+    {
+      "id": 139,
+      "category": "roles",
+      "fr": "Marchande ambulante",
+      "en": "Traveling merchant"
+    },
+    {
+      "id": 140,
+      "category": "roles",
+      "fr": "Bibliothécaire",
+      "en": "Librarian"
+    },
+    {
+      "id": 141,
+      "category": "styles",
+      "fr": "Victorien",
+      "en": "Victorian"
+    },
+    {
+      "id": 142,
+      "category": "styles",
+      "fr": "Années 20",
+      "en": "Roaring Twenties"
+    },
+    {
+      "id": 143,
+      "category": "styles",
+      "fr": "Rétro années 50",
+      "en": "1950s retro"
+    },
+    {
+      "id": 144,
+      "category": "styles",
+      "fr": "Punk",
+      "en": "Punk"
+    },
+    {
+      "id": 145,
+      "category": "styles",
+      "fr": "Grunge années 90",
+      "en": "1990s grunge"
+    },
+    {
+      "id": 146,
+      "category": "styles",
+      "fr": "Y2K",
+      "en": "Y2K"
+    },
+    {
+      "id": 147,
+      "category": "styles",
+      "fr": "Bohème",
+      "en": "Boho"
+    },
+    {
+      "id": 148,
+      "category": "styles",
+      "fr": "Cottagecore",
+      "en": "Cottagecore"
+    },
+    {
+      "id": 149,
+      "category": "styles",
+      "fr": "Dark academia",
+      "en": "Dark academia"
+    },
+    {
+      "id": 150,
+      "category": "styles",
+      "fr": "Lolita",
+      "en": "Lolita"
+    },
+    {
+      "id": 151,
+      "category": "styles",
+      "fr": "Harajuku",
+      "en": "Harajuku"
+    },
+    {
+      "id": 152,
+      "category": "styles",
+      "fr": "Streetwear",
+      "en": "Streetwear"
+    },
+    {
+      "id": 153,
+      "category": "styles",
+      "fr": "Western",
+      "en": "Western"
+    },
+    {
+      "id": 154,
+      "category": "styles",
+      "fr": "Rococo",
+      "en": "Rococo"
+    },
+    {
+      "id": 155,
+      "category": "styles",
+      "fr": "Médiéval",
+      "en": "Medieval"
+    },
+    {
+      "id": 156,
+      "category": "styles",
+      "fr": "Viking",
+      "en": "Viking"
+    },
+    {
+      "id": 157,
+      "category": "styles",
+      "fr": "Grèce antique",
+      "en": "Ancient Greece"
+    },
+    {
+      "id": 158,
+      "category": "styles",
+      "fr": "Égypte antique",
+      "en": "Ancient Egypt"
+    },
+    {
+      "id": 159,
+      "category": "styles",
+      "fr": "Belle Époque",
+      "en": "Belle Époque"
+    },
+    {
+      "id": 160,
+      "category": "styles",
+      "fr": "Haute couture",
+      "en": "Haute couture"
+    },
+    {
+      "id": 161,
+      "category": "styles",
+      "fr": "Preppy",
+      "en": "Preppy"
+    },
+    {
+      "id": 162,
+      "category": "styles",
+      "fr": "Marinière et bord de mer",
+      "en": "Breton stripes and seaside"
+    },
+    {
+      "id": 163,
+      "category": "styles",
+      "fr": "Tenue de gala",
+      "en": "Gala outfit"
+    },
+    {
+      "id": 164,
+      "category": "styles",
+      "fr": "Tailleur chic",
+      "en": "Chic tailored suit"
+    },
+    {
+      "id": 165,
+      "category": "styles",
+      "fr": "Kawaii",
+      "en": "Kawaii"
+    },
+    {
+      "id": 166,
+      "category": "styles",
+      "fr": "Gyaru",
+      "en": "Gyaru"
+    },
+    {
+      "id": 167,
+      "category": "styles",
+      "fr": "Minimaliste",
+      "en": "Minimalist"
+    },
+    {
+      "id": 168,
+      "category": "styles",
+      "fr": "Sportswear chic",
+      "en": "Chic sportswear"
+    },
+    {
+      "id": 169,
+      "category": "elements",
+      "fr": "Feu",
+      "en": "Fire"
+    },
+    {
+      "id": 170,
+      "category": "elements",
+      "fr": "Glace",
+      "en": "Ice"
+    },
+    {
+      "id": 171,
+      "category": "elements",
+      "fr": "Foudre",
+      "en": "Lightning"
+    },
+    {
+      "id": 172,
+      "category": "elements",
+      "fr": "Eau",
+      "en": "Water"
+    },
+    {
+      "id": 173,
+      "category": "elements",
+      "fr": "Vent",
+      "en": "Wind"
+    },
+    {
+      "id": 174,
+      "category": "elements",
+      "fr": "Terre",
+      "en": "Earth"
+    },
+    {
+      "id": 175,
+      "category": "elements",
+      "fr": "Lumière",
+      "en": "Light"
+    },
+    {
+      "id": 176,
+      "category": "elements",
+      "fr": "Ténèbres",
+      "en": "Darkness"
+    },
+    {
+      "id": 177,
+      "category": "elements",
+      "fr": "Lune",
+      "en": "Moon"
+    },
+    {
+      "id": 178,
+      "category": "elements",
+      "fr": "Soleil",
+      "en": "Sun"
+    },
+    {
+      "id": 179,
+      "category": "elements",
+      "fr": "Étoiles",
+      "en": "Stars"
+    },
+    {
+      "id": 180,
+      "category": "elements",
+      "fr": "Océan",
+      "en": "Ocean"
+    },
+    {
+      "id": 181,
+      "category": "elements",
+      "fr": "Corail",
+      "en": "Coral"
+    },
+    {
+      "id": 182,
+      "category": "elements",
+      "fr": "Papillon",
+      "en": "Butterfly"
+    },
+    {
+      "id": 183,
+      "category": "elements",
+      "fr": "Chat",
+      "en": "Cat"
+    },
+    {
+      "id": 184,
+      "category": "elements",
+      "fr": "Renard",
+      "en": "Fox"
+    },
+    {
+      "id": 185,
+      "category": "elements",
+      "fr": "Corbeau",
+      "en": "Raven"
+    },
+    {
+      "id": 186,
+      "category": "elements",
+      "fr": "Paon",
+      "en": "Peacock"
+    },
+    {
+      "id": 187,
+      "category": "elements",
+      "fr": "Lotus",
+      "en": "Lotus"
+    },
+    {
+      "id": 188,
+      "category": "elements",
+      "fr": "Rose",
+      "en": "Rose"
+    },
+    {
+      "id": 189,
+      "category": "elements",
+      "fr": "Lys",
+      "en": "Lily"
+    },
+    {
+      "id": 190,
+      "category": "elements",
+      "fr": "Glycine",
+      "en": "Wisteria"
+    },
+    {
+      "id": 191,
+      "category": "elements",
+      "fr": "Érable rouge",
+      "en": "Red maple"
+    },
+    {
+      "id": 192,
+      "category": "elements",
+      "fr": "Bambou",
+      "en": "Bamboo"
+    },
+    {
+      "id": 193,
+      "category": "elements",
+      "fr": "Cristal",
+      "en": "Crystal"
+    },
+    {
+      "id": 194,
+      "category": "elements",
+      "fr": "Or et bijoux",
+      "en": "Gold and jewelry"
+    },
+    {
+      "id": 195,
+      "category": "elements",
+      "fr": "Perles",
+      "en": "Pearls"
+    },
+    {
+      "id": 196,
+      "category": "elements",
+      "fr": "Plumes",
+      "en": "Feathers"
+    },
+    {
+      "id": 197,
+      "category": "freeform",
+      "fr": "La vie en rose",
+      "en": "La vie en rose"
+    },
+    {
+      "id": 198,
+      "category": "freeform",
+      "fr": "Tout en noir",
+      "en": "All in black"
+    },
+    {
+      "id": 199,
+      "category": "freeform",
+      "fr": "Total look blanc",
+      "en": "All-white look"
+    },
+    {
+      "id": 200,
+      "category": "freeform",
+      "fr": "Monochrome",
+      "en": "Monochrome"
+    },
+    {
+      "id": 201,
+      "category": "freeform",
+      "fr": "Arc-en-ciel",
+      "en": "Rainbow"
+    },
+    {
+      "id": 202,
+      "category": "freeform",
+      "fr": "Pastel tout doux",
+      "en": "Soft pastels"
+    },
+    {
+      "id": 203,
+      "category": "freeform",
+      "fr": "Néon et cyberpunk",
+      "en": "Neon and cyberpunk"
+    },
+    {
+      "id": 204,
+      "category": "freeform",
+      "fr": "Gothique",
+      "en": "Gothic"
+    },
+    {
+      "id": 205,
+      "category": "freeform",
+      "fr": "Steampunk",
+      "en": "Steampunk"
+    },
+    {
+      "id": 206,
+      "category": "freeform",
+      "fr": "Journée plage",
+      "en": "Beach day"
+    },
+    {
+      "id": 207,
+      "category": "freeform",
+      "fr": "Soirée pyjama",
+      "en": "Sleepover"
+    },
+    {
+      "id": 208,
+      "category": "freeform",
+      "fr": "Rendez-vous galant",
+      "en": "Romantic date"
+    },
+    {
+      "id": 209,
+      "category": "freeform",
+      "fr": "Prêtresse de sanctuaire (miko)",
+      "en": "Shrine maiden (miko)"
+    },
+    {
+      "id": 210,
+      "category": "freeform",
+      "fr": "Kimono ou yukata",
+      "en": "Kimono or yukata"
+    },
+    {
+      "id": 211,
+      "category": "freeform",
+      "fr": "Festival d'été japonais",
+      "en": "Japanese summer festival"
+    },
+    {
+      "id": 212,
+      "category": "freeform",
+      "fr": "Fleurs de cerisier",
+      "en": "Cherry blossoms"
+    },
+    {
+      "id": 213,
+      "category": "freeform",
+      "fr": "Cérémonie du thé",
+      "en": "Tea ceremony"
+    },
+    {
+      "id": 214,
+      "category": "freeform",
+      "fr": "Tenue de bureau",
+      "en": "Office wear"
+    },
+    {
+      "id": 215,
+      "category": "freeform",
+      "fr": "Serveuse de maid café",
+      "en": "Maid café waitress"
+    },
+    {
+      "id": 216,
+      "category": "freeform",
+      "fr": "Idole sur scène",
+      "en": "Idol on stage"
+    },
+    {
+      "id": 217,
+      "category": "freeform",
+      "fr": "Rockstar",
+      "en": "Rock star"
+    },
+    {
+      "id": 218,
+      "category": "freeform",
+      "fr": "Ninja des toits",
+      "en": "Rooftop ninja"
+    },
+    {
+      "id": 219,
+      "category": "freeform",
+      "fr": "Pirate",
+      "en": "Pirate"
+    },
+    {
+      "id": 220,
+      "category": "freeform",
+      "fr": "Voleuse de grand chemin",
+      "en": "Highway robber"
+    },
+    {
+      "id": 221,
+      "category": "freeform",
+      "fr": "Aventurière fauchée (tenue de débutante)",
+      "en": "Broke adventurer (starter outfit)"
+    },
+    {
+      "id": 222,
+      "category": "freeform",
+      "fr": "Riche héritière d'Ul'dah",
+      "en": "Wealthy Ul'dahn heiress"
+    },
+    {
+      "id": 223,
+      "category": "freeform",
+      "fr": "Mendiante d'Ul'dah",
+      "en": "Ul'dahn beggar"
+    },
+    {
+      "id": 224,
+      "category": "freeform",
+      "fr": "Bien emmitouflée pour l'hiver",
+      "en": "Bundled up for winter"
+    },
+    {
+      "id": 225,
+      "category": "freeform",
+      "fr": "Salle de sport",
+      "en": "At the gym"
+    },
+    {
+      "id": 226,
+      "category": "freeform",
+      "fr": "Dimanche cosy",
+      "en": "Cozy Sunday"
+    },
+    {
+      "id": 227,
+      "category": "freeform",
+      "fr": "Sorcière",
+      "en": "Witch"
+    },
+    {
+      "id": 228,
+      "category": "freeform",
+      "fr": "Vampire",
+      "en": "Vampire"
+    },
+    {
+      "id": 229,
+      "category": "freeform",
+      "fr": "Princesse",
+      "en": "Princess"
+    },
+    {
+      "id": 230,
+      "category": "freeform",
+      "fr": "Militaire",
+      "en": "Military"
+    },
+    {
+      "id": 231,
+      "category": "freeform",
+      "fr": "Chasseuse de primes",
+      "en": "Bounty hunter"
+    },
+    {
+      "id": 232,
+      "category": "freeform",
+      "fr": "Détective",
+      "en": "Detective"
+    },
+    {
+      "id": 233,
+      "category": "freeform",
+      "fr": "Exploratrice en safari",
+      "en": "Safari explorer"
+    },
+    {
+      "id": 234,
+      "category": "freeform",
+      "fr": "Cheffe cuisinière",
+      "en": "Head chef"
+    },
+    {
+      "id": 235,
+      "category": "freeform",
+      "fr": "Jardinière",
+      "en": "Gardener"
+    },
+    {
+      "id": 236,
+      "category": "freeform",
+      "fr": "Clown total (le pire glamour possible)",
+      "en": "Total clown (the worst glamour possible)"
+    },
+    {
+      "id": 237,
+      "category": "freeform",
+      "fr": "Tout ce qui brille",
+      "en": "All that glitters"
+    },
+    {
+      "id": 238,
+      "category": "freeform",
+      "fr": "Sous la pluie",
+      "en": "In the rain"
+    },
+    {
+      "id": 239,
+      "category": "freeform",
+      "fr": "Dragonne déchaînée",
+      "en": "Unleashed dragoness"
+    },
+    {
+      "id": 240,
+      "category": "freeform",
+      "fr": "Version maléfique de ton perso",
+      "en": "Evil version of your character"
+    },
+    {
+      "id": 241,
+      "category": "freeform",
+      "fr": "Ton perso à 80 ans",
+      "en": "Your character at 80"
+    },
+    {
+      "id": 242,
+      "category": "freeform",
+      "fr": "Ton perso en vacances",
+      "en": "Your character on vacation"
+    },
+    {
+      "id": 243,
+      "category": "freeform",
+      "fr": "Premier jour d'école",
+      "en": "First day of school"
+    },
+    {
+      "id": 244,
+      "category": "freeform",
+      "fr": "Lendemain de soirée",
+      "en": "The morning after the party"
+    },
+    {
+      "id": 245,
+      "category": "freeform",
+      "fr": "Patronne de taverne",
+      "en": "Tavern keeper"
+    },
+    {
+      "id": 246,
+      "category": "freeform",
+      "fr": "Garde du corps",
+      "en": "Bodyguard"
+    },
+    {
+      "id": 247,
+      "category": "freeform",
+      "fr": "Espionne",
+      "en": "Spy"
+    },
+    {
+      "id": 248,
+      "category": "freeform",
+      "fr": "Danseuse de cour",
+      "en": "Court dancer"
+    },
+    {
+      "id": 249,
+      "category": "freeform",
+      "fr": "Pirate du ciel",
+      "en": "Sky pirate"
+    },
+    {
+      "id": 250,
+      "category": "freeform",
+      "fr": "Mécanicienne pleine de cambouis",
+      "en": "Grease-covered mechanic"
+    },
+    {
+      "id": 251,
+      "category": "freeform",
+      "fr": "Tenue pour perdre tous ses gils au Gold Saucer",
+      "en": "Outfit for losing all your gil at the Gold Saucer"
+    },
+    {
+      "id": 252,
+      "category": "freeform",
+      "fr": "Inspirée de ton dessert préféré",
+      "en": "Inspired by your favorite dessert"
+    },
+    {
+      "id": 253,
+      "category": "freeform",
+      "fr": "Inspirée de la météo du jour",
+      "en": "Inspired by today's weather"
+    },
+    {
+      "id": 254,
+      "category": "freeform",
+      "fr": "Une couleur, et une seule",
+      "en": "One color, and one only"
+    }
+  ]
+}
