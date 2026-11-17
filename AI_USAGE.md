@@ -60,3 +60,10 @@ IA :
 - Demandé par Lénile : un README en anglais, destiné aux joueurs, sans les consignes internes (compilation, soumission).
 - Fait par l'IA : réécriture complète du README.
 - Testé par Lénile en jeu : sans objet (documentation seulement).
+
+### 2026-11-17 — Dépôt de test non officiel
+
+- Demandé par Lénile : un dépôt public non officiel pour installer le plugin avant la soumission.
+- Fait par l'IA : fichier `repo.json` (dépôt personnalisé Dalamud) et section « Status » du README avec l'adresse du dépôt.
+- Fait par Lénile : compilation du plugin et publication du zip dans une Release GitHub.
+- Testé par Lénile en jeu : *à compléter*.

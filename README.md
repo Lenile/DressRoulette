@@ -47,6 +47,17 @@ Discord: [discord.gg/6NshHb9QzK](https://discord.gg/6NshHb9QzK)
 
 DressRoulette is not released yet. It will be submitted to the official Dalamud plugin repository.
 
+To try the test version now:
+
+1. In game, open `/xlsettings` → **Experimental**.
+2. Under **Custom Plugin Repositories**, add this URL, tick **Enabled**, then save:
+
+    ```
+    https://raw.githubusercontent.com/Lenile/DressRoulette/main/repo.json
+    ```
+
+3. Open `/xlplugins` and install DressRoulette.
+
 ## AI usage
 
 This plugin is developed with AI assistance. Details are in [AI_USAGE.md](AI_USAGE.md).
