@@ -54,3 +54,9 @@ IA :
     - bouton « Ne plus tirer ce thème » et liste des thèmes exclus dans les réglages ;
     - mention des traductions IA dans la description du plugin.
 - Testé par Lénile en jeu : *à compléter*.
+
+### 2026-11-17 — README public en anglais
+
+- Demandé par Lénile : un README en anglais, destiné aux joueurs, sans les consignes internes (compilation, soumission).
+- Fait par l'IA : réécriture complète du README.
+- Testé par Lénile en jeu : sans objet (documentation seulement).
