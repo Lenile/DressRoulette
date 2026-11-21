@@ -22,13 +22,14 @@ IA :
 - code C# du plugin ;
 - fichiers de données JSON, construits à partir des listes françaises de l'auteur ;
 - traductions anglaises des thèmes, des contraintes et de l'interface ;
-- README, workflow GitHub, tests de la logique ;
-- icône du plugin.
+- README, workflow GitHub, tests de la logique.
+
+Icône : dessinée à la main, sans IA, par une proche de l'auteur.
 
 ## Pour la soumission
 
 - La description de la PR sur DalamudPluginsD17 doit être **écrite par l'auteur lui-même**, et indiquer le niveau d'usage de l'IA.
-- Les traductions et l'icône faites avec l'IA sont signalées dans la description du plugin (visible dans l'installateur).
+- Les traductions faites avec l'IA sont signalées dans la description du plugin (visible dans l'installateur). L'icône n'a pas été faite avec l'IA.
 
 ## Journal des modifications
 
@@ -84,3 +85,14 @@ IA :
     - dossier de soumission `testing/live/DressRoulette/` (`manifest.toml` et icône), changelog.
 - Non fait par l'IA, volontairement : la description de la PR, que la règle Dalamud demande d'écrire soi-même.
 - Testé par Lénile en jeu : sans objet (aucun changement de code).
+
+### 2026-11-17 au 2026-11-21 — Réparation du dépôt GitHub
+
+- Problème : un fichier vide nommé `DressRoulette`, créé avec le dépôt, entrait en conflit avec le dossier du même nom et rendait l'arborescence invalide.
+- Fait par l'IA, avec l'accord de Lénile : suppression de ce fichier, puis renvoi de tout le dossier `DressRoulette` ; chaque fichier a été comparé octet par octet avec la version testée.
+- Testé : compilation vérifiée après la réparation.
+
+### 2026-11-21 — Nouvelle icône
+
+- Icône dessinée à la main, sans IA, par une proche de Lénile ; elle remplace l'icône générée par un script.
+- Fait par l'IA : mise au format (512x512, fond transparent) et mise à jour de la déclaration d'IA dans la description du plugin.
