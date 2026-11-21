@@ -24,7 +24,7 @@ IA :
 - traductions anglaises des thèmes, des contraintes et de l'interface ;
 - README, workflow GitHub, tests de la logique.
 
-Icône : dessinée à la main, sans IA, par une proche de l'auteur.
+Icône : faite à la main, sans IA, par une proche de l'auteur (un cercle chromatique classique en base, le pointeur et le « DR » dessinés par elle).
 
 ## Pour la soumission
 
@@ -94,5 +94,11 @@ Icône : dessinée à la main, sans IA, par une proche de l'auteur.
 
 ### 2026-11-21 — Nouvelle icône
 
-- Icône dessinée à la main, sans IA, par une proche de Lénile ; elle remplace l'icône générée par un script.
+- Icône faite à la main, sans IA, par une proche de Lénile (cercle chromatique classique en base, pointeur et « DR » dessinés) ; elle remplace l'icône générée par un script.
 - Fait par l'IA : mise au format (512x512, fond transparent) et mise à jour de la déclaration d'IA dans la description du plugin.
+
+### 2026-11-21 — Envoi de l'icône
+
+- Fait par l'IA, à la demande de Lénile : icône réduite en 256x256 (256 couleurs, fond transparent), puis envoyée sur GitHub via le navigateur, dans ce dépôt et dans la branche de soumission DalamudPluginsD17. L'empreinte SHA-256 a été vérifiée aux deux endroits.
+- Fait par l'IA : la déclaration d'IA dit maintenant « made by hand » au lieu de « drawn by hand », plus juste pour une icône partie d'un cercle chromatique existant.
+- Rien n'a été généré par IA dans l'image elle-même.
